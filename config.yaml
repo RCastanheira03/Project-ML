@@ -3,3 +3,4 @@ data:
     raw_data: "data/raw_data_csv/raw_data.csv"
   clean_data_csv:
     clean_data: "data/clean_data_csv/clean_data.csv"
+    clean_data_v3_irma: "data/clean_data_csv/clean_data_v3_irma.csv"
