@@ -4,7 +4,7 @@
 This project builds a **regression model to predict the selling price of used cars** based on their technical specifications and categorical attributes.  
 The workflow includes data cleaning, feature engineering, encoding, scaling, correlation analysis, outlier handling, and multiple machine learning algorithms.  
 The main objective is to identify the model that best predicts car prices with high accuracy.
-
+Presentation Link: https://docs.google.com/presentation/d/1_aVD1jkiJilH9fex5yJvgMoKjVZvFL5_JG279TZFh70/edit?slide=id.gc6fa3c898_0_0#slide=id.gc6fa3c898_0_0
 ---
 
 ## 🗂️ Repository Structure
