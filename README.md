@@ -9,17 +9,19 @@ Presentation Link: https://docs.google.com/presentation/d/1_aVD1jkiJilH9fex5yJvg
 
 ## 🗂️ Repository Structure
 
-"
 │── notebooks/  
-│   ├── data_cleaning_ML.ipynb — Data cleaning, encoding, and preprocessing  
-│   ├── Model_creation_v1.ipynb — Model training and evaluation (KNN, Linear Regression)  
+│   ├── data_cleaning.ipynb — Initial Data cleaning file
+│   ├── data_cleaning_v2.ipynb — Finalised Data cleaning, encoding, and preprocessing
+│   ├── Model_creation_v1.ipynb — First version of Model training and evaluation
+│   ├── Model_creation_Final.ipynb — Final version of Model training, hyperparameters and conclusion
 │  
 │── data/  
 │   ├── raw_data_csv/ — Original dataset  
-│   ├── clean_data_csv/ — Cleaned dataset  
+│   ├── clean_data_csv/ — Clean dataset 
+│   ├── clean_data_csv/clean_data_v3_irma.csv — Clean dataset before outliers
 │  
 │── config.yaml — File paths configuration  
-│── README.md — Project documentation  "
+│── README.md — Project documentation  
 
 ---
 
@@ -71,10 +73,10 @@ Each model was evaluated using:
 
 ## Useful Links  
 
-- [Kanban Board (Trello)]
+- [Kanban Board (Trello)] - https://trello.com/invite/b/68ed07a50938fcd51cb8974b/ATTI96e6ac25d343d32499a81e1318da4d8607FFA28C/ml-project
 
 
-- [Google Slides Presentation]
+- [Google Slides Presentation] - https://docs.google.com/presentation/d/1_aVD1jkiJilH9fex5yJvgMoKjVZvFL5_JG279TZFh70/edit?slide=id.g38d7d8c3b90_0_38#slide=id.g38d7d8c3b90_0_38
 
 
 ---
